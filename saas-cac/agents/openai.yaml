@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS 获客成本分析"
+  short_description: "计算 SaaS CAC、毛利回收期、LTV/CAC 与渠道效率"
+  default_prompt: "使用 $saas-cac 校验 SaaS 获客数据，并生成 CAC 与毛利回收期分析。"
